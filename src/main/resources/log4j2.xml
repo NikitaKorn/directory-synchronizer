@@ -1,0 +1,7 @@
+<Configuration status="info" name="baeldung" packages="com.dirsynch.directorysynchronizer">
+    <Appenders>
+        <Console name="stdout" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %p %m%n"/>
+        </Console>
+    </Appenders>
+</Configuration>
